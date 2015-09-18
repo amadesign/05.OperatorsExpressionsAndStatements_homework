@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\04.Rectangles\bin\Debug\04.Rectangles.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\04.Rectangles\bin\Debug\04.Rectangles.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\04.Rectangles\obj\Debug\04.Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\04.Rectangles\obj\Debug\04.Rectangles.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\04.Rectangles\obj\Debug\04.Rectangles.pdb

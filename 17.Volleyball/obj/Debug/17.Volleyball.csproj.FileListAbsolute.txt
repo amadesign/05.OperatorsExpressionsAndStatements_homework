@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\17.Volleyball\bin\Debug\17.Volleyball.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\17.Volleyball\bin\Debug\17.Volleyball.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\17.Volleyball\obj\Debug\17.Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\17.Volleyball\obj\Debug\17.Volleyball.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\17.Volleyball\obj\Debug\17.Volleyball.pdb

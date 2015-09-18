@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\06.FourDigitnumber\bin\Debug\06.FourDigitnumber.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\06.FourDigitnumber\bin\Debug\06.FourDigitnumber.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\06.FourDigitnumber\obj\Debug\06.FourDigitnumber.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\06.FourDigitnumber\obj\Debug\06.FourDigitnumber.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\06.FourDigitnumber\obj\Debug\06.FourDigitnumber.pdb

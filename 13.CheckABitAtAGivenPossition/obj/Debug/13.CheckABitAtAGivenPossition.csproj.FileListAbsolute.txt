@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\13.CheckABitAtAGivenPossition\bin\Debug\13.CheckABitAtAGivenPossition.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\13.CheckABitAtAGivenPossition\bin\Debug\13.CheckABitAtAGivenPossition.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\13.CheckABitAtAGivenPossition\obj\Debug\13.CheckABitAtAGivenPossition.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\13.CheckABitAtAGivenPossition\obj\Debug\13.CheckABitAtAGivenPossition.pdb

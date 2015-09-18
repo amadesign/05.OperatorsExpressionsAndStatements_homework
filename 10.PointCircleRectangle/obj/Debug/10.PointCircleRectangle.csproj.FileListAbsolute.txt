@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.pdb

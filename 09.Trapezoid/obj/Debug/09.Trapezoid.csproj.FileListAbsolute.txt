@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\09.Trapezoid\bin\Debug\09.Trapezoid.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\09.Trapezoid\bin\Debug\09.Trapezoid.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\09.Trapezoid\obj\Debug\09.Trapezoid.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\09.Trapezoid\obj\Debug\09.Trapezoid.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\09.Trapezoid\obj\Debug\09.Trapezoid.pdb

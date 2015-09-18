@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\14.ModifyABitAtAGivenPos\bin\Debug\14.ModifyABitAtAGivenPos.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\14.ModifyABitAtAGivenPos\bin\Debug\14.ModifyABitAtAGivenPos.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\14.ModifyABitAtAGivenPos\obj\Debug\14.ModifyABitAtAGivenPos.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\14.ModifyABitAtAGivenPos\obj\Debug\14.ModifyABitAtAGivenPos.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\14.ModifyABitAtAGivenPos\obj\Debug\14.ModifyABitAtAGivenPos.pdb

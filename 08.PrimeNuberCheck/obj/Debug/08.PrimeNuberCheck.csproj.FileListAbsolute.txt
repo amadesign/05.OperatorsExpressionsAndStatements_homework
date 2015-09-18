@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\08.PrimeNuberCheck\bin\Debug\08.PrimeNuberCheck.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\08.PrimeNuberCheck\bin\Debug\08.PrimeNuberCheck.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\08.PrimeNuberCheck\obj\Debug\08.PrimeNuberCheck.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\08.PrimeNuberCheck\obj\Debug\08.PrimeNuberCheck.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\08.PrimeNuberCheck\obj\Debug\08.PrimeNuberCheck.pdb

@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\21.BitSifting\bin\Debug\21.BitSifting.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\21.BitSifting\bin\Debug\21.BitSifting.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\21.BitSifting\obj\Debug\21.BitSifting.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\21.BitSifting\obj\Debug\21.BitSifting.pdb

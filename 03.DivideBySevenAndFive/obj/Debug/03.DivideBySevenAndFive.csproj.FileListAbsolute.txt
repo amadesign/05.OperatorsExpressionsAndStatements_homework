@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.pdb

@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\20.BitsUp\bin\Debug\20.BitsUp.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\20.BitsUp\bin\Debug\20.BitsUp.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\20.BitsUp\obj\Debug\20.BitsUp.exe
+C:\Users\Raia\Desktop\Софтуни Курс\05.OperatorsExpressionsAndStatements_homework\20.BitsUp\obj\Debug\20.BitsUp.pdb
